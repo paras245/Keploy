@@ -1,0 +1,6 @@
+@KeployPractice5_HostAddress = http://localhost:5271
+
+GET {{KeployPractice5_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
